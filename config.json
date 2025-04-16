@@ -1,0 +1,7 @@
+{
+    "start_url": "https://www.abb.com/global/en/product/motors-generators/low-voltage-motors/nema-ac-motors-portfolio/general-purpose-motors/three-phase-enclosed-motors",
+    "output_dir": "output",
+    "assets_subdir": "assets",
+    "links_file": "product_links.json",
+    "product_limit": 15
+  }
