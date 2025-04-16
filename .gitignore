@@ -1,0 +1,25 @@
+# Ambientes virtuais
+.venv/
+prova_tec/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Cache do Python
+.cache/
+.pytest_cache/
+
+# Diretórios de build/distribuição
+dist/
+build/
+
+# Arquivos de output do scraping
+output/
