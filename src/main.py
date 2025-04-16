@@ -1,6 +1,6 @@
 import json
 
-# Carrega config
+
 with open("config.json") as f:
     CONFIG = json.load(f)
 
