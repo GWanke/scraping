@@ -3,5 +3,10 @@
   "page_size": 10,
   "total_expected": 178,
   "samples_to_extract": 15,
-  "output_path": "output/selected_products.json"
+  "output_path": "output/selected_products.json",
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "application/json"
+  },
+  "timeout": [5, 30]
 }
